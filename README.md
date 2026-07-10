@@ -1,4 +1,4 @@
-<img src="https://thedoggybrad.github.io/2048ontheweb/meta/2048-rounded-144.png" alt="LOGO" width="96"  height="96">
+<img src="https://thedoggybrad.github.io/2048ontheweb/meta/2048-rounded-144.png" alt="LOGO" width="128"  height="128">
 
 # 2048 on the Web
 <a href="https://thedoggybrad.github.io/2048ontheweb"><img src="https://thedoggybrad.github.io/2048ontheweb/screenshots.jpg" alt="LOGO"></a>
@@ -11,8 +11,6 @@ This version of 2048 has some changes to the original game with the assurance th
 <br>
 <br>
 The game is free to play on https://thedoggybrad.github.io/2048ontheweb/ or at its official shortened link https://cutt.ly/2048ontheweb
-<br>
-<br>
 
 ## Instructions for the PWA game installation (Works even you are offline)
 1.) Mobile Browsers
@@ -27,9 +25,8 @@ The game is free to play on https://thedoggybrad.github.io/2048ontheweb/ or at i
 or
 <br>
 -To install the app, click the 3 dots or similar then go to More Tools and click Create Shortcut. Make sure to tick the option "Open in new window" or similar.
-<br>
-<br>
+
 ## How to play?
 Swipe using your touchscreen mobile device and use the keyboard arrow keys on your PC/Laptop. Tiles with the same number merge into one when they touch. Add them up until you reach 2048!
-<br>
-<br>
+<br><br>
+To reset the game's progress, you may click "New Game" or the "r" button on your keyboard then click "Yes" when prompted if you want to start a new game.
