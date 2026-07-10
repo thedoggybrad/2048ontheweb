@@ -30,3 +30,5 @@ or
 Swipe using your touchscreen mobile device and use the keyboard arrow keys on your PC/Laptop. Tiles with the same number merge into one when they touch. Add them up until you reach 2048!
 <br><br>
 To reset the game's progress, you may click "New Game" or the "r" button on your keyboard then click "Yes" when prompted if you want to start a new game.
+<br><br>
+To undo a move, you may click "Undo Move" or the "u" button on your keyboard

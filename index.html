@@ -29,12 +29,12 @@
 
   <div class="container">
    <a class="restart-button">New Game</a>
+   
     <div class="heading">
       <h1 class="title">2048</h1>
       <div class="scores-container">
       </div>
     </div>
-
 
     <div class="above-game">
       <p class="game-intro">An improved version of the classic <strong>2048</strong>!</p>
@@ -45,7 +45,11 @@
         <div class="best-container">0</div>
        <div class="moves-container">0</div>
        </div>
-
+      
+      <div class="undo-container">
+        <button class="undo-button">Undo Move</button>
+      </div>
+  
 
     <div class="game-container">
       <div class="game-message">
@@ -58,6 +62,7 @@
         </div>
       </div>
 
+      
       <div class="grid-container">
         <div class="grid-row">
           <div class="grid-cell"></div>
@@ -106,13 +111,14 @@
 	<div class="modal-body">
 	<p>Swipe using your touchscreen mobile device and use the keyboard arrow keys on your PC/Laptop. Tiles with the same number merge into one when they touch. Add them up until you reach 2048!</p>
   <p>To reset the game's progress, you may click "New Game" or the "r" button on your keyboard then click "Yes" when prompted if you want to start a new game.</p>
+  <p>To undo a move, you may click "Undo Move" or the "u" button on your keyboard.</p>
     	</div>
     </div>
 </div>
 <br><br>
 <div class="footer">
 <footer>
-  <p><b><a href="https://github.com/thedoggybrad/2048ontheweb/">2048 on the Web</a> (Version 11.3.1)</b><br>©<a href="https://github.com/thedoggybrad/">TheDoggyBrad Software Lab</a>. Provided under <a href="https://github.com/thedoggybrad/2048ontheweb/blob/master/LICENSE.txt">ISC License</a>. <br>Based on the <a href="https://gabrielecirulli.github.io/2048/">original 2048 game</a> by <a href="https://github.com/gabrielecirulli">Gabriele Cirulli</a>.</p>
+  <p><b><a href="https://github.com/thedoggybrad/2048ontheweb/">2048 on the Web</a> (Version 12.0)</b><br>©<a href="https://github.com/thedoggybrad/">TheDoggyBrad Software Lab</a>. Provided under <a href="https://github.com/thedoggybrad/2048ontheweb/blob/master/LICENSE.txt">ISC License</a>. <br>Based on the <a href="https://gabrielecirulli.github.io/2048/">original 2048 game</a> by <a href="https://github.com/gabrielecirulli">Gabriele Cirulli</a>.</p>
 	</footer></div>
 
   <script src="game.js"></script>
